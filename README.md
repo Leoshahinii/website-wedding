@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 <div align="center">
 <img src="https://github.com/oilprint/patricia-wedding/blob/main/wedding.jpg" target="_blank" align="center" style="width: 100%" />
 </div>  
 
 # [website](https://github.com/Leoshahinii/website-wedding)
 
+=======
+# patricia-wedding
+>>>>>>> 543a47eb7e33b6683cc5256ddf4bd1c71568aa9f
 👰🛒 Welcome to our beautiful bridal gown boutique! This repository hosts an elegant e-commerce website dedicated to helping brides find their dream wedding dresses for their special day.
 
 🎨🖥️ The website design was carefully crafted using Figma, ensuring a visually stunning and cohesive look.
@@ -12,6 +16,7 @@
 
 🌟 My goal was to provide an intuitive and delightful shopping journey, allowing brides-to-be to effortlessly browse, select, and envision themselves in their perfect wedding dress. 💐💍
 
+<<<<<<< HEAD
 ## Technologies Used:
 
 <table><tr><td valign="top" width="256">  
@@ -35,3 +40,5 @@ Design
 </div>
 <br/>  
 </td></tr></table>  
+=======
+>>>>>>> 543a47eb7e33b6683cc5256ddf4bd1c71568aa9f
